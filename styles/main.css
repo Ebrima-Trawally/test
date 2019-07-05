@@ -1,0 +1,58 @@
+.wrapper{ background-color: white;
+         width: 80%;
+         margin-bottom: 0;
+         /* float: left; */
+}
+.page{
+    width: 30%;
+    padding: 1.5em;
+    /* background: border-box; */
+    /* float: right; */
+}
+footer{
+    
+}
+.picture{
+    width: 60%;
+    height: 30%;
+    border-radius: 100%;
+}
+body{ 
+    background-color: orange;
+    margin: 0;
+    display: flex;
+
+}
+.active{
+  color: yellow;
+}
+.responsive{ 
+    width: 30%;  
+    height: 30%;
+    /* border-radius: 20%; */
+                   
+}
+
+.header{
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+font: bold;
+
+}
+
+nav{
+    background: black;
+    padding: 1rem;
+    text-align: center;
+
+}
+a:hover{
+    background: red;
+    padding: 15px;
+    margin: auto;   
+    text-align: center;
+}
+a{
+    width: 100%;
+    font-size: 1.5rem;
+    padding: 1em
+}
